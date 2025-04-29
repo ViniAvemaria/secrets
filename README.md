@@ -1,6 +1,6 @@
 # Secrets
 
-A express server, ejs and SQL database with password authenticaion.
+An express server with EJS and SQL database with password authenticaion.
 
 ## Deployment
 
